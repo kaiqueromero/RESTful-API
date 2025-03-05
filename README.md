@@ -55,4 +55,4 @@ classDiagram
 
 ## IMPORTANTE
 
-Este projeto foi construído com um viés totalmente educacional para a DIO. Por isso, disponibilizamos uma versão mais robusta dele no repositório oficial da DIO:
+Este projeto foi construído com um viés totalmente educacional.
